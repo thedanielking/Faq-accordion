@@ -43,7 +43,7 @@ h1, h2, h3{
 /* general styles */
 body{
     background-color: var(--clr-primary-200);
-    background-image: url(/assets/images/background-pattern-desktop.svg);
+    background-image: url(background-pattern-desktop.svg);
     background-repeat: no-repeat;
     background-size: 100%;
     min-height: 100vh;
@@ -118,7 +118,7 @@ button:hover{
 
 @media (max-width: 540px){
     body{
-        background-image: url(/assets/images/background-pattern-mobile.svg);
+        background-image: url(background-pattern-mobile.svg);
     }
 }
 
